@@ -6,10 +6,4 @@
     <string name="edit_message">Enter a message</string>
     <string name="button_login">Login</string>
 
-    <string name="action_sign_in_short">Please enter password before signing in</string>
-    <string name="prompt_password">Password</string>
-    <string name="prompt_email">Email</string>
-    <string name="action_sign_in">Sign-in</string>
-    <string name="new_user">New User</string>
-    <string name="title_activity_login">Log-in to CarPo</string>
 </resources>
