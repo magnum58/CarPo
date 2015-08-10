@@ -23,4 +23,5 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="72dp"
         android:enabled="true" />
+        android:onClick="LoginActivity" />
 </RelativeLayout>
